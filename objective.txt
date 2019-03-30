@@ -1,0 +1,5 @@
+The objective of the game is to demined a field by finding
+out all the mines in a maze .Mines are set randomly
+and numbers are given as clues as to where the mines are located.
+The user mission should the user wished to accept the mission is to find 
+all the mines within smallest amount of time. May the force be with you..........

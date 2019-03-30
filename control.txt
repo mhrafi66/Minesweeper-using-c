@@ -1,0 +1,6 @@
+To play minesweeper following keys are needed
+*Arrow keys to navigate through the maze
+*'F' to flag cells
+* Space to uncover cells
+* 'Q' to quit
+happpy mining............
